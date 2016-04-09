@@ -11,12 +11,12 @@ The final project did not go so smoothly. I chose a hard-to-work-with topic that
 
 That's not to say it was a total waste of my efforts. It's referred to as "productive fail" for a reason. I certainly learned a lot both about the contents of my project and the tools I used to pull it off. I also learned a lot about choosing a topic effectively, even if that wasn't a willing lesson. I wish I had been able to carry out the lofty goals I'd imagined at the beginning, but it never happened. I wrote more about the good things that came out of the project, both what was effective and what I learned from the problems, in my paradata as well.
 
-A few of the many things I learned over the past week:
--Budget time wisely.
--Overview is a good friend.
--Word clouds are great, but scrubbing the data first is important.
--It's okay to ask for help if I'm having trouble with something!
--Topics should be chosen carefully and with consideration to the data.
+A few of the many things I learned over the past week:   
+-Budget time wisely.   
+-Overview is a good friend.   
+-Word clouds are great, but scrubbing the data first is important.   
+-It's okay to ask for help if I'm having trouble with something!   
+-Topics should be chosen carefully and with consideration to the data.   
 -Cookbooks are a really cool source of history!
 
 My final project can be found [here](http://the-eleanor.github.io/Final-Project/index.html), and the paradata accompanying it [here](https://github.com/the-eleanor/Final-Project/blob/master/Paradata.md).
